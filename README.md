@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohamed Safiq
 ======================================================================================================================================
 
-*   🌍  I'm based in TN ,India
+*   🌍  I'm based in India
 *   ✉️  You can contact me at [accsafiq121@gmail.com](mailto:accsafiq121@gmail.com)
 *   🧠  I'm currently learning Python
 *   👥  I'm looking to collaborate on Open Source Projects
