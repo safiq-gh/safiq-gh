@@ -58,7 +58,6 @@
           <img src="https://img.shields.io/badge/GitHub-Repo-white?style=for-the-badge&logo=github" />
         </a>
       </td>
-
       <td>
         <h3>📂 File Organizer</h3>
         <p>Strategy-based CLI tool to organize files safely</p>
@@ -69,7 +68,6 @@
         </a>
       </td>
     </tr>
-
     <tr>
       <td>
         <h3>🛡️ Policy-Aware RAG</h3>
@@ -81,7 +79,6 @@
           <img src="https://img.shields.io/badge/GitHub-Repo-white?style=for-the-badge&logo=github" />
         </a>
       </td>
-
       <td>
         <h3>🤖 n8n Automation</h3>
         <p>Telegram automations for email, calendar & chat</p>
