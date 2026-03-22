@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=700&lines=Backend+Developer;IT+Student;AI+%26+Linux+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=700&lines=Aspiring+Backend+Developer;IT+Student;AI+%26+Linux+Enthusiast" />
 </h3>
 
 ---
