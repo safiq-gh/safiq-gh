@@ -175,14 +175,6 @@
 
 ---
 
-## 📜 Certifications
-
-- 🐍 **Learn Python Programming** — CodeChef
-- 🤖 **Agentic AI Bootcamp** — Spark Solution
-- 🍃 **MongoDB CRUD Operations** — MongoDB
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
