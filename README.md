@@ -21,7 +21,7 @@
 - 🧠 Building custom **RAG pipelines**, developer tooling, and secure API endpoints with **Python + FastAPI**
 - 🛡️ Security-aware engineer — hands-on with **Kali Linux, Nmap, and vulnerability assessment**
 - 📊 Applied ML internship experience: classification models with **Scikit-Learn, Pandas & NumPy**
-- 🎓 B.Tech IT @ B.S. Abdur Rahman Crescent Institute of Science & Technology — **CGPA 9.23 / 10**
+- 🎓 B.Tech IT @ B.S. Abdur Rahman Crescent Institute of Science & Technology (2023 – 2027)
 - 📫 Reach me at **accsafiq121@gmail.com**
 
 ---
@@ -169,7 +169,6 @@
 | **Institution** | B.S. Abdur Rahman Crescent Institute of Science & Technology |
 | **Degree** | B.Tech, Information Technology |
 | **Duration** | 2023 – 2027 (Expected) |
-| **CGPA** | 9.23 / 10 |
 
 </div>
 
@@ -179,6 +178,9 @@
 
 <div align="center">
 
+<a href="https://safiq-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7317cf?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/mohamed-safiq">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
