@@ -1,8 +1,17 @@
-# Mohamed Safiq
+<h1 align="center">Mohamed Safiq</h1>
 
-Backend Developer · IT Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=1400&color=6B7280&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%26+RAG+Systems+Builder;Security-Aware+Engineer" />
+</p>
 
-Chennai, India · accsafiq121@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohamed-safiq) · [Portfolio](https://safiq-portfolio.vercel.app/) · [GitHub](https://github.com/safiq-gh)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-safiq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://safiq-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:accsafiq121@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/safiq-gh"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Chennai, India</sub></p>
 
 ---
 
@@ -28,33 +37,51 @@ Backend developer and IT student specializing in backend systems, event-driven p
 
 ## Projects
 
-**[Policy-Aware RAG / Prompt Injection Guard](https://github.com/safiq-gh/policy-aware-rag-LLM)**
+**Policy-Aware RAG / Prompt Injection Guard**
 AI guardrail system that treats security rules as retrievable context to block adversarial prompt injections.
 `Python` `LangChain` `Ollama` `Streamlit`
+[![Repo](https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/safiq-gh/policy-aware-rag-LLM)
 
-**[System Monitoring Dashboard](https://github.com/safiq-gh/system-monitor)**
+**System Monitoring Dashboard**
 Multi-machine hardware health tracker using a bi-directional WebSocket stream for sub-second telemetry.
 `Python` `FastAPI` `WebSockets` `psutil`
+[![Repo](https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/safiq-gh/system-monitor)
 
-**[AI-Powered Telegram Automation](https://github.com/safiq-gh/n8n-automation)**
+**AI-Powered Telegram Automation**
 Conversational calendar agent with per-user memory, plus an email parser via Google OAuth2.
 `n8n` `Google OAuth2` `Telegram Bot API`
+[![Repo](https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/safiq-gh/n8n-automation)
 
-**[ReviewLens](https://github.com/safiq-gh/ReviewLens)** — [Live demo](https://reviewlens-landing.vercel.app/)
+**ReviewLens**
 Summarizes GitHub PRs instantly using Groq AI.
 `JavaScript` `HTML`
+[![Repo](https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/safiq-gh/ReviewLens)
+[![Demo](https://img.shields.io/badge/Live_Demo-111111?style=flat-square&logo=vercel&logoColor=white)](https://reviewlens-landing.vercel.app/)
 
-**[File Organizer](https://github.com/safiq-gh/file-organizer)**
+**File Organizer**
 Strategy-based CLI tool that organizes files safely using pluggable sorting rules.
 `Python`
+[![Repo](https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/safiq-gh/file-organizer)
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks:** Python, FastAPI
-**Databases & Vectors:** PostgreSQL, MongoDB, ChromaDB
-**Tools & Protocols:** Linux, Docker, Git, Ollama, WebSockets, OAuth2, REST APIs, n8n, Webhooks
+**Languages & Frameworks**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" title="FastAPI" />
+
+**Databases & Vectors**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" title="PostgreSQL" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" title="MongoDB" />
+<br/><sub>+ ChromaDB</sub>
+
+**Tools & Protocols**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" title="Linux" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" title="Docker" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" title="GitHub" />
+<br/><sub>+ Ollama, n8n, OAuth2, WebSockets, REST APIs, Webhooks</sub>
 
 ---
 
@@ -62,7 +89,3 @@ Strategy-based CLI tool that organizes files safely using pluggable sorting rule
 
 **B.Tech, Information Technology** — B.S. Abdur Rahman Crescent Institute of Science & Technology
 2023 – 2027 (Expected)
-
----
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-safiq) · [Portfolio](https://safiq-portfolio.vercel.app/) · [Email](mailto:accsafiq121@gmail.com) · [GitHub](https://github.com/safiq-gh)
